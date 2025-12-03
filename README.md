@@ -2,9 +2,13 @@
 
 Spotify kullanım verilerini analiz edip **en çok dinlenen şarkıları ve sanatçıları görsel bir arayüzde** gösteren bir Python uygulamasıdır. Belirli tarihler arasında filtreleme yapabilir ve toplam dinleme sürelerini kolayca görebilirsiniz.  
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-
+📊 Özellikler
+---
+🎵 En çok dinlenen şarkılar ve sanatçılar (oynatma sayısı ve toplam dakika)
+⏱ Toplam dinleme süresi
+📅 Tarih filtreleme
+🖥️ Tkinter tabanlı kullanıcı dostu arayüz
+🎨 Pencere ve görev çubuğu ikonları
 ---
 
 ## 🚀 1️⃣ Sadece `.exe` Dosyasını Kullanmak İsteyenler İçin  
@@ -40,6 +44,15 @@ Spotify kullanım verilerini analiz edip **en çok dinlenen şarkıları ve sana
 
 ```bash
 pip install tkcalendar
-
+```
 ▶️ Çalıştırma
+```bash
 python "Spotify özet.py"
+````
+🏗 .exe Dosyası Oluşturma
+```bash
+python -m PyInstaller --clean --onefile --windowed --icon=icon.ico "Spotify özet.py"
+```
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)

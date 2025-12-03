@@ -5,11 +5,11 @@ Spotify kullanım verilerini analiz edip **en çok dinlenen şarkıları ve sana
 📊 Özellikler
 ---
 <ul>
-<li>🎵 En çok dinlenen şarkılar ve sanatçılar (oynatma sayısı ve toplam dakika)</li>
-⏱ Toplam dinleme süresi
-📅 Tarih filtreleme
-🖥️ Tkinter tabanlı kullanıcı dostu arayüz
-🎨 Pencere ve görev çubuğu ikonları
+<li>🎵 En çok dinlenen şarkılar ve sanatçılar (oynatma sayısı ve toplam dakika).</li>
+<li>⏱ Toplam dinleme süresi.</li>
+<li>📅 Tarih filtreleme.</li>
+<li>🖥️ Tkinter tabanlı kullanıcı dostu arayüz.</li>
+<li>🎨 Pencere ve görev çubuğu ikonları.</li>
 </ul>
 
 ## 🚀 1️⃣ Sadece `.exe` Dosyasını Kullanmak İsteyenler İçin  

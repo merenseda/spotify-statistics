@@ -40,4 +40,6 @@ Spotify kullanım verilerini analiz edip **en çok dinlenen şarkıları ve sana
 
 ```bash
 pip install tkcalendar
+
+▶️ Çalıştırma
 python "Spotify özet.py"

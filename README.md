@@ -12,7 +12,7 @@ Spotify kullanım verilerini analiz edip **en çok dinlenen şarkıları ve sana
 <li>🎨 Pencere ve görev çubuğu ikonları.</li>
 </ul>
 
-## 🚀 1️⃣ Sadece `.exe` Dosyasını Kullanmak İsteyenler İçin  
+## 🚀 1️⃣ Sadece Programı Kullanmak İsteyenler İçin  
 
 - Python kurulumu **gerekmez**.  
 - Tek yapmanız gereken: `.exe` dosyasını bilgisayarınıza indirmek ve çalıştırmak.  

@@ -19,9 +19,9 @@ Spotify kullanım verilerini analiz edip **en çok dinlenen şarkıları ve sana
 
 ### 🎧 Spotify Veri Dosyasını Alma
 
-1. Spotify hesabınıza gidin ve [Spotify Account → Privacy Settings](https://www.spotify.com/account/privacy/) kısmından **“Download your data / Download your Spotify history”** bölümünü bulun.  
-2. İlgili yıllara ait **Streaming History JSON dosyalarını** indirin (ör. `StreamingHistory0.json`, `StreamingHistory1.json`, vb.).  
-3. Tüm JSON dosyalarını **tek bir dosyada birleştirin** ve adını **`ozet.json`** olarak değiştirin.  
+1. Spotify hesabınıza gidin ve [Spotify Account → Privacy Settings](https://www.spotify.com/account/privacy/) kısmından **“Verilerini İndirme”** bölümünü bulun.  
+2. **Ayrıntılı çevrimiçi dinleme geçmişini** indirin.  
+3. Tüm JSON dosyasının adını **`ozet.json`** olarak değiştirin.  
 4. `ozet.json` dosyasını, `.exe` dosyasının bulunduğu **aynı klasöre** koyun.  
 
 ### 🖱 Kullanım

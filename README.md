@@ -9,7 +9,6 @@ Spotify kullanım verilerini analiz edip **en çok dinlenen şarkıları ve sana
 📅 Tarih filtreleme
 🖥️ Tkinter tabanlı kullanıcı dostu arayüz
 🎨 Pencere ve görev çubuğu ikonları
----
 
 ## 🚀 1️⃣ Sadece `.exe` Dosyasını Kullanmak İsteyenler İçin  
 
